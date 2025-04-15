@@ -15,6 +15,7 @@ DAX was used to combine all tables into a single table using the function =Union
 1. What role does social support play in determining happiness across different continents? 
 2. Is there a relationship between GDP per capital and happiness score across different regions?
 3. How has the global happiness score changed over the years?
+![Screenshot (551)](https://github.com/user-attachments/assets/f96056dc-9b18-46bb-a6cf-d77a4e5ce6d4)
 
 Findings and Recommendations
 # question 1
